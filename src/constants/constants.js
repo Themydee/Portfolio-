@@ -32,6 +32,6 @@ export const TimeLineData = [
   { year: 2019, text: 'Started my journey', },
   { year: 2020, text: 'Developed myself further as a Basic Web developer', },
   { year: 2021, text: 'Started Learning Php', },
-  { year: 2022, text: 'Started Learning React, Vue, Nodejs alongside working as a freelance developer', },
-  { year: 2023, text: 'Founded Themydeecodes', },
+  { year: 2022, text: 'Started Learning React, Vue, Nodejs alongside working as a freelance developer, Themydeecodes was founded', },
+  { year: 2023, text: 'Themydeecodes was refublished and named as Coded Farmer as its brand', },
 ];
