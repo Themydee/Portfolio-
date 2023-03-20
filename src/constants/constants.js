@@ -4,8 +4,8 @@ export const projects = [
     description: "Using Html, Css, Php, Javascript & MySQL databsae, the App was built from scratch and it is a colege website with a voting website embedded in it.",
       image: '/images/edu.png',
       tags: ['Html', 'Css', 'Javascript', 'Php'],
-    source: 'https://google.com',
-    visit: 'https://github.com/Themydee/EDU-MULTIPAGESITE',
+    source: 'https://github.com/Themydee/EDU-MULTIPAGESITE',
+    visit: 'https://google.com',
     id: 0,
   },
   {
