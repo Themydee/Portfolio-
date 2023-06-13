@@ -32,8 +32,17 @@ export const projects = [
       image: '/images/count.png',
       tags: [ 'Html', 'Css', 'Javascript'],
     source: 'https://github.com/Themydee/CAS_VOTE',
-    visit: 'https://tdquiz.netlify.app',
+    visit: 'https://casvote.brimble.app',
     id: 3,
+  },
+  {
+    title: 'My Portfolio',
+    description: "Using NextJs and React. I was able to complete this awesome task ",
+      image: '/images/port.png',
+      tags: [ 'NextJs', 'React', 'Javascript'],
+    source: 'https://github.com/Themydee/Portfolio-',
+    visit: 'https://themydee.brimble.app',
+    id: 4,
   }
 ];
 
