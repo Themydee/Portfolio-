@@ -25,6 +25,15 @@ export const projects = [
     source: 'https://github.com/Themydee/Quiz-BOT',
     visit: 'https://tdquiz.netlify.app',
     id: 2,
+  },
+  {
+    title: 'Countdown Webpage',
+    description: "Using Html and Css and Js the countdown web app was built",
+      image: '/images/count.png',
+      tags: [ 'Html', 'Css', 'Javascript'],
+    source: 'https://github.com/Themydee/CAS_VOTE',
+    visit: 'https://tdquiz.netlify.app',
+    id: 3,
   }
 ];
 
